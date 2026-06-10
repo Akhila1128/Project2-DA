@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#FF69B4"           # hot pink accent
+backgroundColor = "#FFF0F5"       # baby pink background
+secondaryBackgroundColor = "#FFD6E8"
+textColor = "#2B2B2B"
+font = "sans serif"
